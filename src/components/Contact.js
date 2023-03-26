@@ -10,7 +10,7 @@ const Contact = () => {
           {/* text */}
           <motion.div variants={fadeIn('right',0.3)} initial='hidden' whileInView={'show'} viewport={{once:false, amount:0.3}} className='flex-1 flex justify-start items-center'>
               <div>
-                <h4 className='text-xl uppercase text-accent font-medium mb-2 tracking-wide'>Get in touch</h4>
+                <h4 className='text-xl uppercase text-gradient  font-medium mb-2 tracking-wide'>Get in touch</h4>
                 <h2 className='text-[45px] lg:text-[90px] leading-none mb-12'>Let's work <br /> together!</h2>
                 <h3 className='text-[45px] lg:text-[30px] leading-none mb-12 '>
                   <FiPhone style={{'float':'left','marginRight':'20px'}} className='text-accent' /> +91 9028921961
