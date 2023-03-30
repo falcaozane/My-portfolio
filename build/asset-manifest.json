@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5244988.css",
+    "main.js": "/static/js/main.7e4bcd75.js",
+    "static/media/portfolio-img2.png": "/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
+    "static/media/portfolio-img3.png": "/static/media/portfolio-img3.e2bf250541b961cca642.png",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img1.png": "/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/services.png": "/static/media/services.cb68e471ab17b981052b.png",
+    "static/media/about.png": "/static/media/about.47181f0395dc3aaac620.png",
+    "static/media/ZaneLogo1.svg": "/static/media/ZaneLogo1.7244344396b12023f9a107742bd72661.svg",
+    "static/media/ZaneLogo2.svg": "/static/media/ZaneLogo2.8d005d17c4648c552b6b5ceb7bcbec68.svg",
+    "index.html": "/index.html",
+    "main.b5244988.css.map": "/static/css/main.b5244988.css.map",
+    "main.7e4bcd75.js.map": "/static/js/main.7e4bcd75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5244988.css",
+    "static/js/main.7e4bcd75.js"
+  ]
+}

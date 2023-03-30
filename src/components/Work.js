@@ -19,9 +19,11 @@ const Work = () => {
                   Work.
                 </h2>
                 <p className='max-w-sm mb-16'>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus debitis aliquid eum facere, illum exercitationem optio vel libero excepturi voluptatem nobis? Sunt deleniti qui quos nihil dignissimos esse culpa quisquam.
+                  Here are some of my projects which I have made during several hackathons and my entire 2nd year of engineering.
+                  The technologies used are React, Java and Vue. Visit my github repo's to see more projects.
+                  Thank You !
                 </p>
-                <button className='btn btn-sm mb-5'>View All</button>
+                <a href='https://github.com/falcaozane'><button className='btn btn-sm mb-5' >View All</button></a>
               </div>
               {/* image */}
               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
@@ -29,14 +31,14 @@ const Work = () => {
                   {/* overlay */}
                   <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
                   {/* img */}
-                  <img className='group-hover:scale-125 transition-all duration-500' src={Img1} />
+                  <img className='group-hover:scale-125 transition-all duration-500' src={Img1} alt='' />
                   {/* pretitle */}
                   <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
-                    <span className='text-gradient'>React</span>
+                    <span className='text-gradient'>Java</span>
                   </div>
                   {/* title */}
                   <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                    <span className='text-3xl text-white'>Project Title</span>
+                    <span className='text-3xl text-white'>Pac-man</span>
                   </div>
                 </div>
               </div>
@@ -49,14 +51,14 @@ const Work = () => {
                   {/* overlay */}
                   <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
                   {/* img */}
-                  <img className='group-hover:scale-125 transition-all duration-500' src={Img2} />
+                  <img className='group-hover:scale-125 transition-all duration-500' src={Img2} alt='' />
                   {/* pretitle */}
                   <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
                     <span className='text-gradient'>React</span>
                   </div>
                   {/* title */}
                   <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                    <span className='text-3xl text-white'>Project Title</span>
+                    <a href='https://connect-4-zane.netlify.app/'><span className='text-3xl text-white'>Connect-4</span></a>
                   </div>
                 </div>
               </div>
@@ -67,14 +69,14 @@ const Work = () => {
                   {/* overlay */}
                   <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
                   {/* img */}
-                  <img className='group-hover:scale-125 transition-all duration-500' src={Img3} />
+                  <img className='group-hover:scale-125 transition-all duration-500' src={Img3} alt='' />
                   {/* pretitle */}
                   <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
-                    <span className='text-gradient'>React</span>
+                    <span className='text-gradient'>Vue</span>
                   </div>
                   {/* title */}
                   <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                    <span className='text-3xl text-white'>Project Title</span>
+                    <a href='https://weight-tracker-zane.netlify.app/'><span className='text-3xl text-white'>Weight-Tracker</span></a>
                   </div>
                 </div>
               </div>

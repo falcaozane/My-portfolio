@@ -19,7 +19,7 @@ const About = () => {
             <h2 className='h2 text-accent'>About Me</h2>
             <h3 className='h3 mb-4'>I'm Studying Computer Engineering @FRCRCE.</h3>
             <p className='mb-6'>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus debitis aliquid eum facere, illum exercitationem optio vel libero excepturi voluptatem nobis? Sunt deleniti qui quos nihil dignissimos esse culpa quisquam.
+            A second-year Computer Engineering student with an ardent passion for computers & web technology. I am enthusiasticabout Competitive Programming, WebD, and Cryptography & take an immense interest in learning newer algorithms and computer languages.
             </p>
             {/* stats */}
             <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
@@ -33,14 +33,19 @@ const About = () => {
                 </div>
               </div>
               <div>
-                <div className='text-[40px] font-tertiary text-gradient mb-2 mt-2'>
-                  {inView ? <CountUp start={0} end={3} duration={3} />: null}
-                </div>
-                <div className='font-primary text-sm tracking-[2px]'>
-                  Projects <br />
-                  worked on
-                </div>
+              <a href='https://www.linkedin.com/in/zane-falcao-014a41247/details/certifications/'>
+                    <div className='text-[40px] font-tertiary text-gradient mb-2 mt-2'>
+                    
+                      {inView ? <CountUp start={0} end={7} duration={3} />: null}
+                    </div>
+                    <div className='font-primary text-sm tracking-[2px]'>
+                        Certifications
+                    </div>
+              </a>
               </div>
+              {
+                /*
+                  
               <div>
                 <div className='text-[40px] font-tertiary text-gradient mb-2 mt-2'>
                   {inView ? <CountUp start={0} end={2} duration={3} />: null}
@@ -49,7 +54,10 @@ const About = () => {
                   Projects <br />
                   worked on
                 </div>
-              </div>
+              </div> 
+                 */
+              }
+              
             </div>
           </motion.div>
         </div>
