@@ -73,3 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## `we deployment at:` 
 https://falcaozane.netlify.app/
+
+## made using React and Tailwind CSS #
