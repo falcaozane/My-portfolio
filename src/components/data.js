@@ -3,9 +3,14 @@ import SkillImg2 from '../assets/img/skills/css3.png';
 import SkillImg3 from '../assets/img/skills/js.png';
 import SkillImg4 from '../assets/img/skills/reactjs.png';
 import SkillImg5 from '../assets/img/skills/java.png';
-import SkillImg6 from '../assets/img/skills/vuejs.png';
-import SkillImg7 from '../assets/img/skills/github.png';
-import SkillImg8 from '../assets/img/skills/firebase.png';
+import SkillImg6 from '../assets/img/skills/flask.png';
+import SkillImg7 from '../assets/img/skills/express.png';
+import SkillImg8 from '../assets/img/skills/mongodb.png';
+import SkillImg9 from '../assets/img/skills/firebase.png';
+import SkillImg10 from '../assets/img/skills/github.png';
+
+
+
 
 
 // skill
@@ -34,5 +39,11 @@ export const skills = [
     },
     {
       image: SkillImg8,
-  },
+    },
+    {
+      image: SkillImg9,
+    },
+    {
+      image: SkillImg10,
+    },
   ];
