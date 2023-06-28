@@ -5,8 +5,8 @@ import { fadeIn } from '../variants';
 
 const Skills = () => {
   return (
-    <section id='skills' className='py-8 lg:section sm:mb-20'>
-        <div className='container mx-auto'>
+    <section id='skills' className='py-8 lg:section sm:mb-20 h-[300px]'>
+        <div className='container mx-auto '>
             <motion.div variants={fadeIn('right',0.3)} initial='hidden' whileInView={'show'} viewport={{once:false, amount:0.3}}>
                 <h4 className='text-xl uppercase text-gradient  font-medium mb-2 tracking-wide'>I have worked on:</h4>
             </motion.div>

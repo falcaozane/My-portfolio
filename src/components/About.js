@@ -22,9 +22,9 @@ const About = () => {
             A second-year Computer Engineering student with an ardent passion for computers & web technology. I am enthusiasticabout Competitive Programming, WebD, and Cryptography & take an immense interest in learning newer algorithms and computer languages.
             </p>
             {/* stats */}
-            <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
+            <div className='flex gap-x-6 lg:gap-x-10 mb-16'>
               <div>
-                <div className='text-[40px] font-tertiary text-gradient mb-2 mt-3'>
+                <div className='text-[45px] font-tertiary text-gradient mb-4 '>
                   {inView ? <CountUp start={0} end={5} duration={3} />: null}
                 </div>
                 <div className='font-primary text-sm tracking-[2px]'>
@@ -34,7 +34,7 @@ const About = () => {
               </div>
               <div>
               <a href='https://www.linkedin.com/in/zane-falcao-014a41247/details/certifications/'>
-                    <div className='text-[40px] font-tertiary text-gradient mb-2 mt-3'>
+                    <div className='text-[45px] font-tertiary text-gradient mb-4 '>
                     
                       {inView ? <CountUp start={0} end={14} duration={3} />: null}
                     </div>
