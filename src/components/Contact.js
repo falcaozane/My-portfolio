@@ -12,10 +12,10 @@ const Contact = () => {
               <div>
                 <h4 className='text-xl uppercase text-gradient  font-medium mb-2 tracking-wide'>Get in touch</h4>
                 <h2 className='text-[45px] lg:text-[90px] leading-none mb-12'>Let's work <br /> together!</h2>
-                <h6 className='text-[35px] lg:text-[30px] leading-none mb-12 '>
+                <h6 className='text-[20px] lg:text-[35px] leading-none mb-12 '>
                   <FiPhone style={{'float':'left','marginRight':'15px'}} className='text-accent' /> +91 9028921961
                 </h6>
-                <h6 className='text-[35px] lg:text-[30px] leading-none mb-12 md:text-[10px]'>
+                <h6 className='text-[20px] lg:text-[35px] leading-none mb-12 md:text-[10px]'>
                   <FiMail style={{'float':'left','marginRight':'15px'}} className='text-accent' />
                    falcaozane@gmail.com</h6>
               </div>

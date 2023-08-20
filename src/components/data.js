@@ -7,7 +7,7 @@ import SkillImg6 from '../assets/img/skills/flask.png';
 import SkillImg7 from '../assets/img/skills/express.png';
 import SkillImg8 from '../assets/img/skills/mongodb.png';
 import SkillImg9 from '../assets/img/skills/firebase.png';
-import SkillImg10 from '../assets/img/skills/github.png';
+import SkillImg10 from '../assets/img/skills/streamlit.png';
 
 
 
