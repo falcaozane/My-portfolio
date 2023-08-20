@@ -72,11 +72,11 @@ const Work = () => {
                   <img className='group-hover:scale-125 transition-all duration-500' src={Img3} alt='' />
                   {/* pretitle */}
                   <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
-                    <span className='text-gradient'>Vue</span>
+                    <span className='text-gradient'>Next js</span>
                   </div>
                   {/* title */}
                   <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                    <a href='https://weight-tracker-zane.netlify.app/'><span className='text-3xl text-white'>Weight-Tracker</span></a>
+                    <a href='https://imdb-clone-zane.vercel.app/'><span className='text-3xl text-white'>IMDB-clone</span></a>
                   </div>
                 </div>
               </div>
