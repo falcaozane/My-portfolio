@@ -23,7 +23,7 @@ const Banner = () => {
                 2000,
                 'UI/UX Designer',
                 2000,
-                'Java Developer',
+                'Generative A.I Developer',
                 2000,
               ]} 
               speed={50}
@@ -41,7 +41,7 @@ const Banner = () => {
                         Contact me
                       </button>
                   </Link>
-                <a href='https://drive.google.com/file/d/1No8zyWdcWJFWWrlRApYV_k1ZOpwbwCO4/view?usp=sharing' className='text-gradient btn-link'>
+                <a href='https://drive.google.com/file/d/1iKSPDuHrOlOTotc7bWgdyXI8hvK0hARJ/view?usp=sharing' className='text-gradient btn-link'>
                     My Resume
                 </a>
             </motion.div>
