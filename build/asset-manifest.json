@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d5190c1.css",
+    "main.js": "/static/js/main.75016a57.js",
+    "static/media/portfolio-img2.png": "/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
+    "static/media/portfolio-img3.png": "/static/media/portfolio-img3.e2bf250541b961cca642.png",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img1.png": "/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/about.png": "/static/media/about.47181f0395dc3aaac620.png",
+    "static/media/flask.png": "/static/media/flask.6a77f62c512e1ffe8cc0.png",
+    "static/media/services.png": "/static/media/services.78d652e4efc30887e84a.png",
+    "static/media/mongodb.png": "/static/media/mongodb.098cb0701cf5f1a0d469.png",
+    "static/media/streamlit.png": "/static/media/streamlit.bfbbb0f1ff84c15b4b88.png",
+    "static/media/ZaneLogo1.svg": "/static/media/ZaneLogo1.7244344396b12023f9a107742bd72661.svg",
+    "static/media/ZaneLogo2.svg": "/static/media/ZaneLogo2.8d005d17c4648c552b6b5ceb7bcbec68.svg",
+    "index.html": "/index.html",
+    "main.7d5190c1.css.map": "/static/css/main.7d5190c1.css.map",
+    "main.75016a57.js.map": "/static/js/main.75016a57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d5190c1.css",
+    "static/js/main.75016a57.js"
+  ]
+}
