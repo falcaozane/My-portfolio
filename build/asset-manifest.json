@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9efb0b94.css",
-    "main.js": "/static/js/main.44007889.js",
+    "main.css": "/static/css/main.b5d37b4c.css",
+    "main.js": "/static/js/main.de2f6b9a.js",
     "static/media/portfolio-img2.png": "/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
     "static/media/portfolio-img3.png": "/static/media/portfolio-img3.e2bf250541b961cca642.png",
     "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
@@ -14,11 +14,11 @@
     "static/media/ZaneLogo1.svg": "/static/media/ZaneLogo1.7244344396b12023f9a107742bd72661.svg",
     "static/media/ZaneLogo2.svg": "/static/media/ZaneLogo2.8d005d17c4648c552b6b5ceb7bcbec68.svg",
     "index.html": "/index.html",
-    "main.9efb0b94.css.map": "/static/css/main.9efb0b94.css.map",
-    "main.44007889.js.map": "/static/js/main.44007889.js.map"
+    "main.b5d37b4c.css.map": "/static/css/main.b5d37b4c.css.map",
+    "main.de2f6b9a.js.map": "/static/js/main.de2f6b9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.9efb0b94.css",
-    "static/js/main.44007889.js"
+    "static/css/main.b5d37b4c.css",
+    "static/js/main.de2f6b9a.js"
   ]
 }
